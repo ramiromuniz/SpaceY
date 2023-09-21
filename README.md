@@ -1,30 +1,31 @@
-# :rocket: Applied Data Science Capstone
-This Capstone is the 10th (final) course in [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) specialization, and it actually summarizes in the form of project all materials that have been learned during this specialization.
-## :page_facing_up: Project Background
-SpaceX is the most successful company of the commercial space 
-age, making space travel affordable. The company advertises Falcon 
-9 rocket launches on its website, with a cost of 62 million dollars; 
-other providers cost upward of 165 million dollars each, much of the 
-savings is because SpaceX can reuse the first stage. Therefore, if we 
-can determine if the first stage will land, we can determine the cost 
-of a launch. Based on public information and machine learning 
-models, we are going to predict if SpaceX will reuse the first stage.
-## :page_facing_up: Questions to be answered 
-- How do variables such as payload mass, launch site, number of 
-flights, and orbits affect the success of the first stage landing? 
-- Does the rate of successful landings increase over the years? 
-- What is the best algorithm that can be used for binary classification 
-in this case?
-## :page_facing_up: Methodology
-  ### 1. Data collection methodology
-  - Using SpaceX Rest API
-  - Using Web Scrapping from Wikipedia
-  ### 2. Performed data wrangling
-  - Filtering the data
-  - Dealing with missing values
-  - Using One Hot Encoding to prepare the data to a binary classification
-  ### 3. Performed exploratory data analysis (EDA) using visualization and SQL
-  ### 4. Performed interactive visual analytics using Folium and Plotly Dash
-  ### 5. Performed predictive analysis using classification models
-  - Building, tuning and evaluation of classification models to ensure the best
-  results
+🚀 Final Project for IBM's Data Science Professional Certificate
+This project serves as the culminating assignment for the IBM Data Science Professional Certificate program, encapsulating all the key learnings from the entire course series into a single hands-on project.
+
+📄 Project Overview
+SpaceX has revolutionized the commercial space industry by making space travel more cost-effective. The Falcon 9 rocket, advertised at a launch price of $62 million, offers a more affordable alternative to traditional service providers who charge over $165 million per launch. A significant factor contributing to this cost-effectiveness is SpaceX's ability to reuse the Falcon 9's first stage. This project aims to leverage publicly available data and machine learning models to predict the reusability of this first stage.
+
+📄 Research Questions
+What impact do factors like payload mass, launch location, flight frequency, and orbital destination have on the successful landing of the first stage?
+Has there been an increase in successful landings over time?
+Which machine learning algorithm is most suitable for binary classification in predicting first stage landing success?
+📄 Project Methodology
+Data Gathering
+Utilizing SpaceX's REST API
+Web scraping data from Wikipedia
+Data Preparation
+Data filtering
+Handling missing values
+Applying One Hot Encoding for binary classification
+Exploratory Data Analysis (EDA)
+Utilizing SQL and visual tools for data exploration
+Interactive Data Visualization
+Employing Folium and Plotly Dash for dynamic visual analytics
+Predictive Analytics
+Building, fine-tuning, and evaluating classification models to achieve the most accurate predictions
+I hope this rephrased version captures the essence of your original README. Would you like any further adjustments?
+
+
+
+
+
+
